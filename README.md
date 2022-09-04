@@ -7,6 +7,8 @@ npm i
 فایل config.env با باز کنید
 مقدار MERCHANT را با کد کد احراز هویت درگاه و مقدار CALLBACKURL را با آدرس کال بک تراکنش قرار دهید
 <br>
+برای استفاده از درگاه تست زیبال مقدار MERCHANT را zibal قرار دهید
+<br>
 مثال »
 ```sh
 CALLBACKURL = "http://example.com/callback"
