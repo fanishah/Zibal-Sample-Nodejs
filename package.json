@@ -1,0 +1,19 @@
+{
+  "name": "zibal",
+  "version": "1.0.0",
+  "author": "fanishah",
+  "url": "https://fanishah.ir",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "dev": "nodemon app"
+  },
+  "keywords": [],
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "dotenv": "^16.0.2",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  }
+}
